@@ -10,28 +10,6 @@ Explore the following sections:
 - [신재생에너지 시스템 분석](신재생에너지_시스템_분석/결과값_해석.md)
 
 
-<!DOCTYPE html>
-<html class="no-js" lang="ko">
-<head>
-  <meta charset="UTF-8">
-  <title>프로그램 평가 프로세스</title>
-  <!-- Mermaid CDN -->
-  <script type="module">
-    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-    mermaid.initialize({ startOnLoad: true });
-  </script>
-  <style>
-    body {
-      font-family: sans-serif;
-      padding: 30px;
-    }
-    .mermaid a {
-      color: #1a73e8;
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
 
 <h2>프로그램 평가 프로세스</h2>
 
@@ -68,8 +46,6 @@ Explore the following sections:
     linkStyle default stroke:#333,stroke-width:1px
 </div>
 
-</body>
-</html>
 
 # 프로그램 평가 프로세스
 
